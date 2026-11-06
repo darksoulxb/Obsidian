@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b387a8dd7f9b65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Fundamentals/IP & Ports.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IP & Ports"
-            }
-          },
-          {
             "id": "cef489a9be2e8b19",
             "type": "leaf",
             "state": {
@@ -37,15 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_101_crash_course.md",
+                "file": "Networking/Fundamentals/IP & Ports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian_101_crash_course"
+              "title": "IP & Ports"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -220,11 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b387a8dd7f9b65f",
+  "active": "96fa0213fda1ec7e",
   "lastOpenFiles": [
-    "Networking/Introduction.md",
+    "Networking/Fundamentals/IP.md",
     "Networking/Fundamentals/IP & Ports.md",
     "obsidian_101_crash_course.md",
+    "Networking/Introduction.md",
     "scribble notes/Scrib_1.md",
     "scribble notes/Helloww.md",
     "Networking/Fundamentals/Network_Topologies.md",
@@ -256,7 +245,6 @@
     "DevOps 2026 Vault/07 Resources/Official Docs.md",
     "DevOps 2026 Vault/06 Code Snippets/Terraform Remote Backend.md",
     "DevOps 2026 Vault/06 Code Snippets/ArgoCD Application.md",
-    "DevOps 2026 Vault/Templates/Daily Note Template.md",
     "DevOps 2026 Vault/{00 Home,01 Phases,02 Daily Notes,03 Capstone,04 Pitfalls,05 Interview Prep,06 Code Snippets,07 Resources,08 Reference,Templates,Attachments}",
     "DevOps 2026 Vault/Templates"
   ]
