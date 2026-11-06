@@ -7,19 +7,26 @@ date: 2026-11-04
 This is the main dashboard for networking studies. 
 
 ## 01. Fundamentals
-*   [[Network Topologies]] - Star, Mesh, Ring, etc.
+*   [[Network_Topologies]] - Star, Mesh, Ring, etc.
 *   [[IP_Addressing_and_Subnetting]] - IPv4, IPv6, and CIDR math
 *   [[MAC_Addresses]] - Hardware addressing
 
 ## 02. The OSI Model
-*   [[L1_Physical_Layer]] - Cables, hubs, bits
-*   [[L2_Data_Link_Layer]] - Frames, MAC, switches
-*   [[L3_Network_Layer]] - Packets, IP, routers
-*   [[L4_Transport_Layer]] - Segments, TCP/UDP
-*   [[L7_Application_Layer]] - HTTP, DNS, DHCP
+*   `[[L1_Physical_Layer]] - Cables, hubs, bits`
+*   `[[L2_Data_Link_Layer]] - Frames, MAC, switches`
+*   `[[L3_Network_Layer]] - Packets, IP, routers`
+*   `[[L4_Transport_Layer]] - Segments, TCP/UDP`
+*   `[[L7_Application_Layer]] - HTTP, DNS, DHCP`
+1.[[Application layer]]-
+2.[[Presentation layer]]
+3.[[session layer]]
+4.[[Transport layer]]
+5.[[Network layer]]
+6.[[Data Link layer]]
+7.[[Physical layer]]
 
 ## 03. Core Protocols
-*   [[TCP_vs_UDP]] - Reliability vs. Speed
+*   [[Internet Traffic]] - Reliability vs. Speed
 *   [[DNS_Resolution]] - How URLs become IPs
 *   [[DHCP_Process]] - DORA process for getting an IP
 *   [[HTTP_and_HTTPS]] - Web traffic and SSL/TLS
