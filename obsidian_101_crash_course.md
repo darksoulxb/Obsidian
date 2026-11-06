@@ -16,7 +16,7 @@ When taking notes during a fast-paced lecture, use these to make things stand ou
 
 *   **Bold text** is created using double asterisks: `**like this**`. Use it for key terms.
 *   *Italic text* is created using single asterisks: `*like this*`. Good for emphasis.
-*   ==Highlighted text== is created using double equals signs: `==like this==`. (Great for exam review!).
+*   <mark>Highlighted text</mark> is created using double equals signs: `<mark>like this</mark>`. (Great for exam review!).
 
 ## 2. Structuring Your Notes
 Instead of massive walls of text, use headers to break things down. You just type a hashtag and a space.

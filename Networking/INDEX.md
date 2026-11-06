@@ -55,3 +55,16 @@ This is the main dashboard for networking studies.
     └── Samba_Port_Configuration.md
     
 ---
+
+
+Networking/
+├── 01-Fundamentals/
+│   ├── IP & Ports.md
+│   ├── Connections & Traffic.md
+│   └── Network Hardware.md
+├── 02-Network-Scales/
+│   └── LAN-MAN-WAN.md
+├── 03-Topologies/
+│   └── Network Topologies.md
+└── 04-OSI-Model/
+    └── OSI Model.md

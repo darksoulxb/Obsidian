@@ -1,8 +1,5 @@
 ---
 tags:
-  - networking
-  - mac_address
-  - ip
 ---
 ---
 ## what is networking
