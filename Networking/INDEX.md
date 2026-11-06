@@ -7,7 +7,7 @@ date: 2026-11-04
 This is the main dashboard for networking studies. 
 
 ## 01. Fundamentals
-*   [[Network_Topologies]] - Star, Mesh, Ring, etc.
+*   [[Network Topologies]] - Star, Mesh, Ring, etc.
 *   [[IP_Addressing_and_Subnetting]] - IPv4, IPv6, and CIDR math
 *   [[MAC_Addresses]] - Hardware addressing
 
