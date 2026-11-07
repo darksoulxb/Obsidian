@@ -35,7 +35,7 @@ creation_date: 2026-11-04
 
 A **port number** is a 16-bit numerical identifier (ranging from `0` to `65535`) that directs network traffic to the correct specific application, process, or service running on a device. 
 
-> [!info] The Apartment Analogy
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> The Apartment Analogy
 > If an [[IP Address]] is like the street address of a large apartment building (delivering the data to the right computer), the **port number** is the specific apartment number (delivering the data to the exact program that requested it).
 
 Without port numbers, your computer would not know whether incoming network data is meant for a web browser, an SSH terminal, a multiplayer game server, or a torrent client. 
