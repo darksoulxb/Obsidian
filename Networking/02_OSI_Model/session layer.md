@@ -9,5 +9,5 @@ session establishment
 
 session maintance - checkpoint to check for errors
 
-session termination
+session termination 
 

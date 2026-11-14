@@ -39,24 +39,16 @@
             "id": "df10822b00e86d7c",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
-            }
-          },
-          {
-            "id": "7c0e68aff76bf214",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Networking/kunal's/Notes1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Notes1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,8 +226,24 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "7c0e68aff76bf214",
+  "active": "df10822b00e86d7c",
   "lastOpenFiles": [
+    "Networking/kunal's/Networking Devices.pdf",
+    "Networking/kunal's/Networking.pdf",
+    "Networking/kunal's/Notes1.pdf",
+    "Networking/02_OSI_Model/session layer.md",
+    "scribble notes/00_Networking_Master_Index.md",
+    "Networking/kunal's/Notes2.pdf",
+    "Networking/kunal's",
+    "Networking/Networking/Notes2.pdf",
+    "Networking/Networking/Notes1.pdf",
+    "Networking/Networking/Networking.pdf",
+    "Networking/Networking/Networking Devices.pdf",
+    "Networking/Networking",
+    "Untitled.canvas",
+    "README.md",
+    "obsidian_101_crash_course.md",
+    "IP.md",
     "Networking/01_Fundamentals/Internet Traffic.md",
     "Networking/01_Fundamentals/IP_Addressing_and_Subnetting.md",
     "Networking/01_Fundamentals/Network_Topologies.md",
@@ -246,32 +254,15 @@
     "Networking/02_OSI_Model/Network layer.md",
     "Networking/02_OSI_Model/Physical layer.md",
     "Networking/02_OSI_Model/Presentation layer.md",
-    "Networking/02_OSI_Model/session layer.md",
     "Networking/02_OSI_Model/OSI.md",
     "MAC Address.md",
     "Networking/00_Networking_Master_Index.md",
     "Networking/Introduction.md",
-    "obsidian_101_crash_course.md",
-    "Networking.zip",
     "Networking/Fundamentals/IP & Ports.md",
     "Networking/INDEX.md",
-    "Networking/03_Protocols",
-    "Networking/02_OSI_Model",
-    "Networking/01_Fundamentals",
     "Networking/Fundamentals/OSI Model.md",
     "Networking/Fundamentals/Network Topologies.md",
     "Networking/Fundamentals/Connections & Traffic.md",
-    "Networking/Fundamentals/Star.md",
-    "Networking/Fundamentals/Dowanload.md",
-    "Untitled.md",
-    "Networking/Fundamentals/IP.md",
-    "scribble notes/Helloww.md",
-    "permanent notes/Networking 1/Fundamentals",
-    "permanent notes/Networking 1",
-    "permanent notes",
-    "scribble notes",
-    "Networking/Fundamentals",
-    "Networking/Introduction",
-    "Untitled.canvas"
+    "Networking/Fundamentals/Star.md"
   ]
 }

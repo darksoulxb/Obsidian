@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "textFontFamily": "Book Antiqua,Bookman Old Style",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cascadia Mono",
+  "showRibbon": true
 }
