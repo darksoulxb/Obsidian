@@ -39,12 +39,14 @@
             "id": "df10822b00e86d7c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Networking/kunal's/Notes1.pdf"
+                "file": "Networking/03_Protocols/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Notes1"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -228,9 +230,10 @@
   },
   "active": "df10822b00e86d7c",
   "lastOpenFiles": [
+    "Networking/kunal's/Notes1.pdf",
+    "Networking/03_Protocols/Untitled.md",
     "Networking/kunal's/Networking Devices.pdf",
     "Networking/kunal's/Networking.pdf",
-    "Networking/kunal's/Notes1.pdf",
     "Networking/02_OSI_Model/session layer.md",
     "scribble notes/00_Networking_Master_Index.md",
     "Networking/kunal's/Notes2.pdf",
@@ -262,7 +265,6 @@
     "Networking/INDEX.md",
     "Networking/Fundamentals/OSI Model.md",
     "Networking/Fundamentals/Network Topologies.md",
-    "Networking/Fundamentals/Connections & Traffic.md",
-    "Networking/Fundamentals/Star.md"
+    "Networking/Fundamentals/Connections & Traffic.md"
   ]
 }
