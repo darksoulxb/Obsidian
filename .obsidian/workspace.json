@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/02_OSI_Model/Transport layer.md",
+                "file": "scribble notes/Scrib_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transport layer"
+              "title": "Scrib_2"
             }
           }
         ],
@@ -230,12 +230,14 @@
   },
   "active": "df10822b00e86d7c",
   "lastOpenFiles": [
-    "Networking/02_OSI_Model/session layer.md",
+    "scribble notes/Pasted image 20261122175715.png",
+    "Networking/kunal's/Networking.pdf",
+    "scribble notes/Scrib_2.md",
     "Networking/02_OSI_Model/Transport layer.md",
+    "Networking/02_OSI_Model/session layer.md",
     "Networking/03_Protocols/Untitled.md",
     "Networking/kunal's/Notes1.pdf",
     "Networking/kunal's/Networking Devices.pdf",
-    "Networking/kunal's/Networking.pdf",
     "scribble notes/00_Networking_Master_Index.md",
     "Networking/kunal's/Notes2.pdf",
     "Networking/kunal's",
@@ -264,7 +266,6 @@
     "Networking/Fundamentals/IP & Ports.md",
     "Networking/INDEX.md",
     "Networking/Fundamentals/OSI Model.md",
-    "Networking/Fundamentals/Network Topologies.md",
-    "Networking/Fundamentals/Connections & Traffic.md"
+    "Networking/Fundamentals/Network Topologies.md"
   ]
 }
