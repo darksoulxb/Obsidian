@@ -317,3 +317,142 @@ WHAT HAPPENS WHEN YOU TYPE IN GOOGLE.COM
 {checks in own computer} ----> [ISP] ----> {Root Server}
 
 ![[Pasted image 20261122175715.png]]
+
+
+
+===========================================
+
+# TCP/IP LAYER
+
+2. Transport Layer
+
+Transportation of the data from the network to application within the machine  
+
+----------------------------
+MULTIPLEXER
+
+Multiplexer (transport layer multiplexer) passes info to de-multiplexer 
+
+======================
+
+data travels in packs and to know about it transport layer will attach these port numbers that's why it knows where the application's data is coming from.
+Transport layer protocols:
+
+- also takes care of congestion layer
+
+
+Congestion layer types:
+
+Transport layer:
+
+Network layer:
+
+
+-------
+congestion control algorithms built in TCP
+
+Checksum:
+
+it's something that's calculated by amounta data you got, it flags of the calculated checksum is diff on the receiver's end with some error or smt.
+
+Timers:
+
+to know that data has been received it uses timer mechanism, the timer starts when the data is transmitted from one device to it's client, when the timer is expired and the expected ping isn't received by the device an action is triggered by the sender mostly error codes and stuff.
+
+- Sequence numbers in timers
+ Sequence numbers identify which specific bytes are being tracked by a timer, preventing confusion when packets are lost, delayed, or resent.
+
+
+
+
+---
+**Checksum**
+
+* **Purpose:** Error detection (checks if data got corrupted in transit).
+* **How it works:** Sender calculates a hash/sum of the packet's bytes and puts it in the header; receiver recalculates and matches it.
+* **On failure:** Corrupted packet is silently discarded.
+* **Used in:** IPv4, TCP, UDP, ICMP.
+
+**Timers**
+
+* **Purpose:** Loss detection, retransmission, and connection state management.
+* **How it works:** Countdown clock started on an event (e.g., sending a packet); triggers an action when it expires.
+* **Key TCP timers:**
+* **Retransmission (RTO):** Resends packet if no `ACK` arrives.
+* **Persistence:** Probes a zero-window receiver to avoid deadlock.
+* **Keep-Alive:** Checks if an idle connection is still active.
+* **TIME_WAIT (2MSL):** Holds a closed port briefly to catch delayed stray packets.
+
+
+
+**How they work together:** Bad **checksum** --> receiver drops packet --> no `ACK` sent --> sender's **retransmission timer** expires --> packet is resent.
+
+---
+
+=================
+
+Protocols
+
+UDP - user datagram Protocol:
+
+data may or may not be delivered 
+Data may change
+Data may not be in order
+Connectionless protocol
+uses checksums
+
+
+UDP Packet:
+
+every data packet has a port numbers such as source port number and destination port number in a packet (2bytes)
+length of datagram (2bytes)
+checksum (2bytes)
+Data ()
+
+Total size = 2^16 
+
+everything except data is considered header since header consists of 8 bytes if data
+
+2^16-8= 65,536 bytes of data in a single packet.
+
+why we use it? 
+
+It's significantly faster
+video calling apps
+DNS (it also uses udp) ---> UDP
+Gaming
+
+=========================================
+
+TCP - Transmission Control Protocol
+
+Transport Layer protocol
+Application layer sends lots of raw data
+Divides data to chunks to add headers etc
+it also collects data from network layer
+Congestion control
+
+Takes Care of:
+
+when data doesn't arrive
+maintains the order of data using seq number
+
+Features:
+
+connection oriented 
+error control
+congestion control
+Full Duplex (File transfer through two computers simultaneously)
+
+
+3 - way handshake
+
+
+A 3-way handshake is the three-step process TCP (Transmission Control Protocol) uses to establish a reliable, synchronized connection between two hosts before transmitting actual data.
+
+![[Pasted image 20261124191019.png]]
+
+          HTTPS REQUEST   
+*Client* ---> *sequence number* ---> *Server* 
+
+3:10:02

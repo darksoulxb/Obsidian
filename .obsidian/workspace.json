@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a304f506f223b4cb",
@@ -230,6 +231,7 @@
   },
   "active": "df10822b00e86d7c",
   "lastOpenFiles": [
+    "scribble notes/Pasted image 20261124191019.png",
     "scribble notes/Pasted image 20261122175715.png",
     "Networking/kunal's/Networking.pdf",
     "scribble notes/Scrib_2.md",
